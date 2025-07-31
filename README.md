@@ -1,0 +1,4 @@
+Customer churn analysis visualization using(ML)Python helps businesses understand retention patterns and identify factors influencing customer departures. The analysis begins with loading and preprocessing the dataset to handle missing values and ensure data consistency. A churn distribution pie chart visually represents the proportion of customers who have left versus those retained. Next, a tenure-based histogram highlights that customers with shorter tenures tend to churn more frequently. A box plot comparing churn with monthly charges reveals whether higher costs contribute to increased churn rates. Finally, a correlation heatmap provides insights into feature relationships, showing how factors like tenure, contract type, and monthly charges impact churn. These visualizations enable businesses to take proactive measures to improve customer retention and reduce churn.
+
+![image](https://github.com/user-attachments/assets/a2f83508-a327-4a5c-ab60-500a490556fe)
+
